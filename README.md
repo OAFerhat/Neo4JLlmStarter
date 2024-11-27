@@ -49,3 +49,7 @@ OPENAI_API_KEY=your_openai_api_key
 - [Neo4j GraphAcademy](https://graphacademy.neo4j.com/)
 - [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction.html)
 - [Neo4j Python Driver Documentation](https://neo4j.com/docs/python-manual/current/)
+
+
+launch one of the python programs: $ 'python -m src.test_vectorRetriever'
+ 
